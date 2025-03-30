@@ -74,16 +74,9 @@ Adicionar seção de roadmap
 Incluir guia de configuração avançada
 
 
-Principais características em Português de Portugal:
+Principais características:
 1. Terminologia adaptada (ex: "Monitorização" em vez de "Acompanhamento")
 2. Grafia conforme Acordo Ortográfico
-3. Formatação de datas/localização pt-PT
-4. Nomes de seções ajustados
-5. Termos técnicos internacionalizados mantidos
-6. Formatação de comandos uniformizada
-
-Para uso completo:
-1. Substituir `seu-utilizador` pelo seu username GitHub
-2. Adicionar capturas de ecrã reais
-3. Atualizar informações de contacto
-4. Personalizar conteúdo conforme necessidades específicas do projeto
+3. Nomes de seções ajustados
+4. Termos técnicos internacionalizados mantidos
+5. Formatação de comandos uniformizada
