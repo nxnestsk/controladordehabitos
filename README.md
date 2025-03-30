@@ -26,7 +26,7 @@ Aplicação móvel para ajudar utilizadores a desenvolver hábitos saudáveis at
 ### Instalação
 
 1. Clonar o repositório:
-git clone https://github.com/seu-utilizador/habit-tracker.git
+git clone https://github.com/nxnestsk/controladordehabitos.git
 Instalar dependências:
 
 cd habit-tracker
@@ -57,7 +57,7 @@ Efetuar Push para a Branch (git push origin funcionalidade/nova-funcionalidade)
 Abrir Pull Request
 
 Contacto
-Seu Nome - @seu_twitter - seu@email.pt
+Rodrigo Nunes - rodrigo.nunes@my.istec.pt
 
 Notas:
 
